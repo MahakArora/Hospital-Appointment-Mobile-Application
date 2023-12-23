@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HospitalAppointment</string>
+    <string name="request_an_appointment">Request an Appointment</string>
+    <string name="full_name">Full Name: </string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="gender">Gender: </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="email">Email:</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="phone">Phone:</string>
+    <string name="_91">(+91)</string>
+    <string name="_9876543218">(9876543218)</string>
+    <string name="appointment_date">Appointment Date:</string>
+    <string name="appointment_time">Appointment Time:</string>
+    <string name="doctor_speciality">Doctor Speciality:</string>
+    <string name="doctor_name">Doctor Name:</string>
+    <string name="details_of_disease">Details of Disease:</string>
+    <string name="submit">Submit</string>
+    <string name="choose_time">CHOOSE TIME</string>
+    <string name="choose_date">CHOOSE DATE</string>
+    <string-array name="speciality_items">
+        <item>Speciality 1</item>
+        <item>Speciality 2</item>
+        <item>Speciality 3</item>
+    </string-array>
+    <string-array name="doc_name">
+        <item>Doc 1</item>
+        <item>Doc 2</item>
+        <item>Doc 3</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    >
+
+</resources>
